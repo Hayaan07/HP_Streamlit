@@ -2,6 +2,10 @@
 
 A wizarding-themed Streamlit web app that lets you look up Harry Potter characters and take an interactive Hogwarts Sorting Quiz to discover your House and Patronus.
 
+## 🌐 Live Demo
+
+👉 **[harrypotter7.streamlit.app](https://harrypotter7.streamlit.app)**
+
 ## ✨ Features
 
 ### 🔍 Character Search & Information Hub
